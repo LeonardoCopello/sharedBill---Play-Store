@@ -5,6 +5,11 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "useNextNotificationsApi": true,
+      "package": "com.leonardo1977.sharedBill",
+      "permissions": []
+    }
   }
 }
